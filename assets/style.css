@@ -42,7 +42,7 @@ main {
   width: 50%;
   background: #ddd;
   cursor: pointer;
-  transition: background 0.4s ease;
+  transition: 0.4s ease;
   border-radius: 10px;
 }
 
